@@ -50,15 +50,16 @@ The objective is to develop webpages that demonstrate JSON data handling, retrie
 
 ### JSON Dataset (books.json)
 
-Insert a screenshot of the JSON dataset here.
+![JSON Dataset](screenshots/Q1-json-validation.png)
 
 ### Question 1 - Display Book Information (books.html)
 
-Insert a screenshot of the browser output here.
+![Question 1 Output](screenshots/Q2-books-output.png)
 
 ### Question 2 - jQuery DOM Manipulation (jquery-dom.html)
 
-Insert screenshots of the jQuery operations here.
+![Question 2 Output (Before Clicking)](screenshots/Q3-jQuery-before-output.png)
+![Question 2 Output (After Clicking)](screenshots/Q3-jQuery-after-output.png)
 
 ## Conclusion
 
